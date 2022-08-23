@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: 47827a18f8a4c40e6a74f62b92a6ccb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7354919232993959369
+    second: countrySideFon_0
+  - first:
+      213: 5001579897478572005
+    second: countrySideFon_1
+  - first:
+      213: 8177909518887768266
+    second: countrySideFon_2
+  - first:
+      213: 3663648538527449955
+    second: countrySideFon_3
+  - first:
+      213: 981268376705626328
+    second: countrySideFon_4
+  - first:
+      213: 6537144743556780378
+    second: countrySideFon_5
+  - first:
+      213: 2441708914642835343
+    second: countrySideFon_6
+  - first:
+      213: 5975272146143434026
+    second: countrySideFon_7
+  - first:
+      213: -2162632777190805446
+    second: countrySideFon_8
+  - first:
+      213: 6754103740340363835
+    second: countrySideFon_9
+  - first:
+      213: -2160415309680795607
+    second: countrySideFon_10
+  - first:
+      213: 1858488010988198739
+    second: countrySideFon_11
+  - first:
+      213: -4889629108782213241
+    second: countrySideFon_12
+  - first:
+      213: 3973196719323829142
+    second: countrySideFon_13
+  - first:
+      213: -213241291953379397
+    second: countrySideFon_14
+  - first:
+      213: -8580104542627714903
+    second: countrySideFon_15
+  - first:
+      213: 1790784983452876332
+    second: countrySideFon_16
+  - first:
+      213: -350559797949892551
+    second: countrySideFon_17
+  - first:
+      213: 655303112564139458
+    second: countrySideFon_18
+  - first:
+      213: 7076166557688467658
+    second: countrySideFon_19
+  - first:
+      213: 4268389093161733406
+    second: countrySideFon_20
+  - first:
+      213: -6417340615616670193
+    second: countrySideFon_21
+  - first:
+      213: 7313995682005914574
+    second: countrySideFon_22
+  - first:
+      213: -6089849236368076262
+    second: countrySideFon_23
+  - first:
+      213: -1663627243206370789
+    second: countrySideFon_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: countrySideFon_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3036
+        width: 1295
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd1b4a031ce11660800000000000000
+      internalID: 7354919232993959369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_1
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 3044
+        width: 1292
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7e1f0da6e296540800000000000000
+      internalID: 5001579897478572005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_2
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 3040
+        width: 1293
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac057960165cd7170800000000000000
+      internalID: 8177909518887768266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2101
+        width: 1796
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363cec85fe4e7d230800000000000000
+      internalID: 3663648538527449955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_4
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1999
+        width: 1691
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0fcdeb36a2e9d00800000000000000
+      internalID: 981268376705626328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1181
+        width: 1672
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51930d428a98ba50800000000000000
+      internalID: 6537144743556780378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_6
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1036
+        width: 1074
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87d0363251b2e120800000000000000
+      internalID: 2441708914642835343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_7
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1421
+        width: 336
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a255a2bcb5e6ce250800000000000000
+      internalID: 5975272146143434026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_8
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 1423
+        width: 256
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30fcef72f8ccf1e0800000000000000
+      internalID: -2162632777190805446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_9
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 1448
+        width: 272
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32ef1b21956bbd50800000000000000
+      internalID: 6754103740340363835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_10
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 1138
+        width: 758
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9202923e8b9a402e0800000000000000
+      internalID: -2160415309680795607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 731
+        width: 561
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b1642dffcaac910800000000000000
+      internalID: 1858488010988198739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 763
+        width: 764
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78750af5b3c842cb0800000000000000
+      internalID: -4889629108782213241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_13
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 52
+        width: 252
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6935b068d51a32730800000000000000
+      internalID: 3973196719323829142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_14
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 735
+        width: 177
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb76cadbc2a6a0df0800000000000000
+      internalID: -213241291953379397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_15
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 45
+        width: 566
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8a5f8b0685de880800000000000000
+      internalID: -8580104542627714903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_16
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 731
+        width: 273
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2effc754752ad810800000000000000
+      internalID: 1790784983452876332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 364
+        width: 461
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938f9aa98bf822bf0800000000000000
+      internalID: -350559797949892551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_18
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 62
+        width: 576
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5e79c75ba181900800000000000000
+      internalID: 655303112564139458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_19
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 60
+        width: 367
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0158a3ef7933260800000000000000
+      internalID: 7076166557688467658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_20
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 21
+        width: 631
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d8e0de34d5c3b30800000000000000
+      internalID: 4268389093161733406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_21
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 349
+        width: 254
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f065b7be5b601f6a0800000000000000
+      internalID: -6417340615616670193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 62
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec314b25258808560800000000000000
+      internalID: 7313995682005914574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_23
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 38
+        width: 533
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12d89a82628c7ba0800000000000000
+      internalID: -6089849236368076262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countrySideFon_24
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 13
+        width: 254
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a950a26db99e8e0800000000000000
+      internalID: -1663627243206370789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

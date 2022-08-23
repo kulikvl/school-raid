@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BackSkin
+  - Bomb
+  - BUS
+  - trap
+  - bird
+  - Enemy
+  - chicken
+  - Level
+  - ShopButtons
+  - coins
+  - BallButton
+  - CONTENT
+  - Pan
+  - BuyButton
+  - back
+  - parachute
+  - character
+  - regulator
+  - tent
+  - HP
+  - PLAYER
+  - MiniEnemy
+  - TankEnemy
+  - school
+  - MC
+  - MiniEnemyController
+  - 2MiniEnemyController
+  - EnemyController
+  - logic
+  - cameraFollow
+  - rushController
+  - tabEnemy
+  - enemyTabsLeft
+  - enemyTabsRight
+  - rightCam
+  - leftCam
+  - placeForSputnik
+  - sputnik
+  - sputnikCollider
+  - blockFire
+  - dialog
+  - itemWeapon
+  - Mode
+  - Shop
+  - LevelSelection
+  - Conf
+  - MenuCoins
+  - UpgradeBack
+  - UpgradePoint
+  - BuyAlt
+  - MenuSettings
+  - MenuPlay
+  - UpgradeParameter
+  - BusHP
+  - BirdContainer
+  - BusManager
+  - Boxes
+  - ItemAbility
+  - AbilitiesButton
+  - UpgradeButton
+  - ExitButton
+  - AbilitiesTab
+  - AbilitiesButtonShop
+  - ContinueButton
+  - UpgradeBackGround
+  - UpgradeStatistics
+  - EnergyCoin
+  - BuyChest
+  - ChestOpeningWindow
+  - gunToRemove
+  - LevelLength
+  - CANVASBUYVIP
+  - PURCHASECHEST
+  - Secondchance
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ENEMY
+  - PLAYER
+  - OTHERS
+  - BOMB
+  - test
+  - LINE
+  - BUTTON
+  - IgnorePlayerAndEnemy
+  - IgnorePlayerAndEnemyAndBomb
+  - PLAYERTHINGS
+  - PLAYERTHINGS2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 5
+    uniqueID: 87078313
+    locked: 0
+  - name: 4
+    uniqueID: 1054196407
+    locked: 0
+  - name: 3
+    uniqueID: 2274715015
+    locked: 0
+  - name: 2
+    uniqueID: 2844253247
+    locked: 0
+  - name: 1
+    uniqueID: 2996848873
+    locked: 0
+  - name: 0
+    uniqueID: 3189607991
+    locked: 0
+  - name: School
+    uniqueID: 3088893643
+    locked: 0
+  - name: EffectsBeforeTerrain
+    uniqueID: 864924251
+    locked: 0
+  - name: Terrain
+    uniqueID: 556973443
+    locked: 0
+  - name: Front
+    uniqueID: 3206602637
+    locked: 0
+  - name: Front+
+    uniqueID: 931204579
+    locked: 0
+  - name: dialog
+    uniqueID: 2063296919
+    locked: 0
+  - name: Front++
+    uniqueID: 2928237375
+    locked: 0
+  - name: Explosions
+    uniqueID: 1147967435
+    locked: 0
+  - name: JOYSTICK
+    uniqueID: 82769793
+    locked: 0
+  - name: ONLYMENU
+    uniqueID: 3505111105
+    locked: 0
+  - name: ONLYMENUCHARACTER
+    uniqueID: 799305953
+    locked: 0
+  - name: ONLYMENU+
+    uniqueID: 478222603
+    locked: 0

@@ -1,0 +1,29 @@
+Tips and tutorials: Stylized Explosion Pack#2
+
+How to make new colored effects
+
+1. Copy the template folder (StylizedExplosionPack#2/prefabs/"what you want to copy"/Template"what you want to copy")
+2. Drag out the prefab into the sceneview
+3. Open up the tabs in particleColorChanger script and start changing the color values.
+4. Use apply check to apply color or turn on the keep_apply changes.
+5. Save prefab
+
+
+Optimization tips:
+Disabling components is the way to go, all particles can be reduced in emittion if needed. 
+(Inside the Particle System, Emission, lower the count in burst or time, spawns less particle).
+
+Glow clipping through environment?
+If your effects are clipping to much try too change the material defaultGlow_additive to Mobile-Particle-Add-ZTestAlways. These will render the effects above environment regardless.
+I recommend using the Mobile-Particle-Add-ZTestAlways shader if you don't have any cellings or walls that might obstruct the view.
+
+You can also look into changing camera to Defered and adding changing to soft particles, but this won't work on some/most mobiles.
+
+Need more glow?
+1. Rightclick in project window, import package/Effects
+2. Drag and drop the Optimized Bloom on your camera and it should be activated
+
+If you have any questions, thoughts or suggestions please email me at nordgren@hotmail.com with the topic: "Stylized Explosion Pack 2 Feedback".
+
+PS: I apolgize for having DestroyMe Scripts on the effects, this so I can test the effects.
+The unity scene might lag if you have to many effects with the colorchange script keep_apply feature applied.

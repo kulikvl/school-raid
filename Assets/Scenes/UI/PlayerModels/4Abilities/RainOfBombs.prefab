@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7835227130682588415
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7835227130682588353}
+  - component: {fileID: 7835227130682588352}
+  m_Layer: 0
+  m_Name: RainOfBombs
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7835227130682588353
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7835227130682588415}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.5, y: 5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7835227130682588352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7835227130682588415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd14a26faaaa04208bf67d26a7da9d64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minSec: 0.2
+  maxSec: 0.4
+  bombs:
+  - {fileID: 4736468767431449753, guid: f292c90194e534efc80dd7e938cc46ad, type: 3}
+  - {fileID: 4736468767431449753, guid: 0143adb6721ef4680a2458b4ff512de6, type: 3}
+  - {fileID: 4736468767431449753, guid: 9246947b58ebd4f6fb4eea24efb09566, type: 3}
+  - {fileID: 4736468767431449753, guid: 89d4174440c4f43d38e6a7b542b5f63f, type: 3}
+  - {fileID: 4736468767431449753, guid: 28bf72dbe7a4c4d3b9cb70cf14e3916d, type: 3}
+  - {fileID: 4736468767431449753, guid: cc8fcf05bc6ea41a69a8e26d5ee82139, type: 3}
+  - {fileID: 3506158676659780047, guid: a9f5f240c773f463e965e4731e40709c, type: 3}
+  - {fileID: 4837757418912345358, guid: 7bd3391d398de4facb007b4fbb4fb2c0, type: 3}

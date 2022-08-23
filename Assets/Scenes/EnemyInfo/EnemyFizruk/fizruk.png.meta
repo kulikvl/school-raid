@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: cb5726f18e8aa4249890ea25dd4580a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1960286656981545873
+    second: fizruk_0
+  - first:
+      213: -7412473356605827457
+    second: fizruk_1
+  - first:
+      213: -5180152973188925124
+    second: fizruk_2
+  - first:
+      213: 3597620876855536277
+    second: fizruk_3
+  - first:
+      213: 2650331149769904790
+    second: fizruk_4
+  - first:
+      213: 8121166986795305510
+    second: fizruk_5
+  - first:
+      213: -8148247521887107733
+    second: fizruk_6
+  - first:
+      213: -3315286742104676545
+    second: fizruk_7
+  - first:
+      213: -7002402805874728494
+    second: fizruk_8
+  - first:
+      213: -5016711900086034292
+    second: fizruk_9
+  - first:
+      213: 1320535777906141932
+    second: fizruk_10
+  - first:
+      213: 7759189062782259404
+    second: fizruk_11
+  - first:
+      213: -5494173046748809083
+    second: fizruk_12
+  - first:
+      213: 4721147749852991381
+    second: fizruk_13
+  - first:
+      213: -5248983857043669521
+    second: fizruk_14
+  - first:
+      213: -5711464828518112843
+    second: fizruk_15
+  - first:
+      213: -854976131093939763
+    second: fizruk_16
+  - first:
+      213: 5590779872060741898
+    second: fizruk_17
+  - first:
+      213: 8266727224481463166
+    second: fizruk_18
+  - first:
+      213: -5720628156896314024
+    second: fizruk_19
+  - first:
+      213: 480915218428345767
+    second: fizruk_20
+  - first:
+      213: -7003604882768812771
+    second: fizruk_21
+  - first:
+      213: -498299043750614281
+    second: fizruk_22
+  - first:
+      213: 3888608973918479855
+    second: fizruk_23
+  - first:
+      213: 7619347063926551644
+    second: fizruk_0
+  - first:
+      213: -5851857566800832675
+    second: fizruk_1
+  - first:
+      213: 5443615314675181414
+    second: fizruk_2
+  - first:
+      213: 372148648053372898
+    second: fizruk_3
+  - first:
+      213: -3005151949080653286
+    second: fizruk_4
+  - first:
+      213: 2008516280428953278
+    second: fizruk_5
+  - first:
+      213: 4370588647473392679
+    second: fizruk_6
+  - first:
+      213: -166130010799821549
+    second: fizruk_7
+  - first:
+      213: -325298483159225878
+    second: fizruk_8
+  - first:
+      213: 3075908949274650851
+    second: fizruk_9
+  - first:
+      213: -3534932495731552215
+    second: fizruk_10
+  - first:
+      213: -3078032358217683072
+    second: fizruk_11
+  - first:
+      213: 1461818481044996224
+    second: fizruk_12
+  - first:
+      213: 138388021943141783
+    second: fizruk_13
+  - first:
+      213: -1932930949593301114
+    second: fizruk_14
+  - first:
+      213: 8835570026481212804
+    second: fizruk_15
+  - first:
+      213: 25660187428473656
+    second: fizruk_16
+  - first:
+      213: -6518358546614552308
+    second: fizruk_17
+  - first:
+      213: 6621779420277545065
+    second: fizruk_18
+  - first:
+      213: 4877966576371776351
+    second: fizruk_19
+  - first:
+      213: 3946009116876942401
+    second: fizruk_20
+  - first:
+      213: -1780800961913101411
+    second: fizruk_21
+  - first:
+      213: 8726370388789278186
+    second: fizruk_22
+  - first:
+      213: -9208210200342620445
+    second: fizruk_23
+  - first:
+      213: -9171411312421115658
+    second: fizruk_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fizruk_0
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1373
+        width: 308
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54f1cd19cb5db960800000000000000
+      internalID: 7619347063926551644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_1
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1412
+        width: 286
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5797a62c860acea0800000000000000
+      internalID: -5851857566800832675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_2
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1412
+        width: 243
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6672715894b9b8b40800000000000000
+      internalID: 5443615314675181414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_3
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1718
+        width: 179
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7fcd249332a2500800000000000000
+      internalID: 372148648053372898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_4
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1412
+        width: 287
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1299fa693e8b46d0800000000000000
+      internalID: -3005151949080653286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_5
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1335
+        width: 78
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe7e8c5aeeafdb10800000000000000
+      internalID: 2008516280428953278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_6
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1407
+        width: 206
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ca100f73377ac30800000000000000
+      internalID: 4370588647473392679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_7
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1414
+        width: 233
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31daeb7a2a9c1bdf0800000000000000
+      internalID: -166130010799821549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_8
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1412
+        width: 244
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae92259c0ce4c7bf0800000000000000
+      internalID: -325298483159225878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_9
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1410
+        width: 204
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8e5fa74e2dfaa20800000000000000
+      internalID: 3075908949274650851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1201
+        width: 167
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9209feebf9561fec0800000000000000
+      internalID: -3534932495731552215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_11
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 884
+        width: 400
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fe649d0e1a845d0800000000000000
+      internalID: -3078032358217683072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_12
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 892
+        width: 350
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080c9c8d92c694410800000000000000
+      internalID: 1461818481044996224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_13
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 896
+        width: 263
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79507193c27abe100800000000000000
+      internalID: 138388021943141783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_14
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 901
+        width: 116
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ff12eda89dc25e0800000000000000
+      internalID: -1932930949593301114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_15
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 901
+        width: 115
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d508050204e9a70800000000000000
+      internalID: 8835570026481212804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_16
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 895
+        width: 262
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b4b84fdc92b5000800000000000000
+      internalID: 25660187428473656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_17
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 889
+        width: 351
+        height: 517
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09786600732a85a0800000000000000
+      internalID: -6518358546614552308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_18
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 881
+        width: 402
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96892ae8c4945eb50800000000000000
+      internalID: 6621779420277545065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1075
+        width: 125
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b3ed2b1c402b340800000000000000
+      internalID: 4877966576371776351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 490
+        width: 569
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c27eb826a03c630800000000000000
+      internalID: 3946009116876942401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 88
+        width: 115
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93ee71d5f25947e0800000000000000
+      internalID: -1780800961913101411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_22
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 80
+        width: 155
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5b54262ab4a1970800000000000000
+      internalID: 8726370388789278186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_23
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 197
+        width: 150
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e613772c9dd53080800000000000000
+      internalID: -9208210200342620445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fizruk_24
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 817
+        width: 970
+        height: 999
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8e32ae00a98b080800000000000000
+      internalID: -9171411312421115658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
