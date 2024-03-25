@@ -4,18 +4,12 @@
 
 ---
 
-# About
+# Overview
 
-This is a 2D game written in C# using Unity3D game engine.
+"School Raid" is a captivating 2D game created in C# using the Unity3D game engine, launched in August 2020. Initially available on both the App Store and Google Play, it has since been unpublished due to the discontinuation of service payments.
 
-The project was made in August 2020 and was published in the App Store and Google Play.
+As the sole creator of this project, I took charge of every aspect of its development. This includes writing all the code, designing and drawing the sprites, creating the audio and music, and developing the animations. Moreover, the conceptualization, game design, and all other creative elements were also my responsibility.
 
-All the code is written by me, all the sprites are drawn by me, as well as audio, music, animations, idea, game design and everything else.
+Discover more about "School Raid" through its full trailer: https://www.youtube.com/watch?v=QaFL1LoriWo&list=PPSV.
 
-At the moment, it can be downloaded to your android device via the link: https://play.google.com/store/apps/details?id=com.vladimirkulikov.fairbomber
-
-The full trailer for this game: https://www.youtube.com/watch?v=QaFL1LoriWo&list=PPSV 
-
-Trailer for my previous game: https://www.youtube.com/watch?v=o95X3zOR0Wo
-
-
+Also, take a moment to explore the trailer for my previous game, that is not yet on Github: https://www.youtube.com/watch?v=o95X3zOR0Wo.
